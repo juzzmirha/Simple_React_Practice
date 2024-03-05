@@ -1,0 +1,13 @@
+.input_ul{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    width: 45%;
+    margin: 15px;
+}
+
+.input_ul li{
+    list-style: none;
+    border-radius: 4px;
+    border-bottom: 1px solid #ccc;
+}

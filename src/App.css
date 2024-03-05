@@ -1,0 +1,26 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.title{
+  margin: 0px 20px;
+}
+.list_elements{
+  list-style: none;
+  padding: 10px;
+}
+.list_elements li{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.text{
+  margin: 0px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  background-color: rgb(203, 198, 198);
+  padding: 10px;
+  border-radius: 4px;
+}
